@@ -1,0 +1,2 @@
+# gitsetting
+~.gitignore
